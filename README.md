@@ -64,6 +64,7 @@ These libraries are not bundled with Reactstrap and required at runtime:
   * [**react-dom**](https://www.npmjs.com/package/react-dom)
 
 ##### Optional Dependencies
+##### Git hub change
 
 These libraries are not included in the main distribution file `reactstrap.min.js` and need to be manually
 included when using components that require transitions or popover effects (e.g. Tooltip, Modal, etc).
