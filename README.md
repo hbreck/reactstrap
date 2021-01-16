@@ -65,6 +65,7 @@ These libraries are not bundled with Reactstrap and required at runtime:
 
 ##### Optional Dependencies
 ##### Git hub change
+##### Git hub change project branch
 
 These libraries are not included in the main distribution file `reactstrap.min.js` and need to be manually
 included when using components that require transitions or popover effects (e.g. Tooltip, Modal, etc).
